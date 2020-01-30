@@ -23,4 +23,4 @@ e depois,
 `mvn spring-boot:run`
 
 Após executar os comando acima, basta acessar a url http://localhost:8080/{NumeroParaConversao}.
-OBS: O servidor será "startado" na porta 8080.
+OBS: O servidor será iniciado na porta 8080.
