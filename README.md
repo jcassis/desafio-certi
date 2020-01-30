@@ -15,11 +15,11 @@ No path ../desafio-certi/desafio/
 
 executar,
 
-`<addr>`mvn clean install
+`mvn clean install`
 
 e depois,
 
-`<addr>`mvn spring-boot:run
+`mvn spring-boot:run`
 
 Após executar os comando acima, basta acessar a url http://localhost:8080/{NumeroParaConversao}.
 OBS: O servidor será "startado" na porta 8080.
