@@ -2,14 +2,14 @@
 
 _**Esse desafio foi realizado utilizando as tecnologias, Java 8, Spring Boot, Rest e Maven.**_
 
-##Ambiente
+## Ambiente
 
 Para executar o projeto, é necessário ter o JDK8 e o Maven instalados no ambiente de execução.
 
 JDK8 - https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 Maven - https://maven.apache.org/download.cgi
 
-##Execução
+## Execução
 
 No path ../desafio-certi/desafio/
 
