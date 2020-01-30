@@ -4,7 +4,7 @@ _**Esse desafio foi realizado utilizando as tecnologias Java 8, Spring Boot, Res
 
 ## Ambiente
 
-Para executar o projeto, é necessário ter o JDK8 e o Maven instalados no ambiente de execução.
+Para executar o projeto, é necessário ter o JDK8(Java_Home) e o Maven(M2_HOME) instalados e configurados no ambiente de execução.
 
 JDK8 - https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
