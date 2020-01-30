@@ -1,6 +1,6 @@
 # Desafio Certi
 
-_**Esse desafio foi realizado utilizando as tecnologias, Java 8, Spring Boot, Rest e Maven.**_
+_**Esse desafio foi realizado utilizando as tecnologias Java 8, Spring Boot, Rest e Maven.**_
 
 ## Ambiente
 
